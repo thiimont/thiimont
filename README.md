@@ -9,7 +9,7 @@ My name is **Thiago Monteiro**, I'm a 19-year-old Brazilian **Backend Developer*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  <img src="https://i.imgur.com/uSPKgOe.png" alt="Oracle SQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/thiimont/thiimont/refs/heads/main/oraclesql.png" alt="Oracle SQL" width="45" height="45"/>
 </p>
 Currently focusing on learning and developing backend solutions with Java, Python and C#, while expanding my Oracle SQL knowledge. I also occasionally work on side projects as a hobby.
 
@@ -18,9 +18,9 @@ Currently focusing on learning and developing backend solutions with Java, Pytho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" alt="Burp Suite" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/thiimont/thiimont/refs/heads/main/burpsuite.png" alt="Burp Suite" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux (I use Arch btw)" width="35" height="35"/>
-  <img src="https://i.imgur.com/jEf2ZBB.jpeg" alt="Oracle Application Express" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/thiimont/thiimont/refs/heads/main/oracleapex.jpeg" alt="Oracle Application Express" width="35" height="35"/>
 </p>
 
 #### 💼 Previous experiences with
@@ -45,5 +45,5 @@ Gained basic knowledge of PHP, C++, and web technologies like HTML, CSS and Java
 **Discord**: thiimon
 
 <p align="right">
-  <img src="https://i.imgur.com/GnTU1hH.png" width="50">
+  <img src="https://raw.githubusercontent.com/thiimont/thiimont/refs/heads/main/stickman.png" width="50">
 </p>
