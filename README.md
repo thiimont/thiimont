@@ -32,7 +32,7 @@ Currently focusing on learning and developing backend solutions with Java, Pytho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="35" height="35"/>
 </p>
-Gained basic knowledge of PHP, C++, and web technologies like HTML, CSS and JavaScript during previous projects. Also used Azure to temporarily host a website as part of one of these projects.
+Gained basic knowledge of PHP, C++, and web technologies like HTML, CSS and JavaScript during previous projects. Also used Azure to temporarily host a static website as part of one of these projects.
 
 ## 🧑‍💻 About me
 - 🌎 My native language is **Brazilian Portuguese**. **Fluent** in reading and writing in English; conversational level at **intermediate**, currently improving.
