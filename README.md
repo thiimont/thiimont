@@ -35,7 +35,7 @@ Currently focusing on learning and developing backend solutions with Java, Pytho
 Gained basic knowledge of PHP, C++, and web technologies like HTML, CSS and JavaScript during previous projects. Also used Azure to temporarily host a static website as part of one of these projects.
 
 ## 🧑‍💻 About me
-- 🌎 My native language is **Brazilian Portuguese**. **Fluent** in reading and writing in English; conversational level at **intermediate**, currently improving.
+- 🌎 My native language is **Brazilian Portuguese**. Fluent in reading and writing in **English**; conversational level at intermediate, with ongoing improvement.
 - 🎯 My goal is to **develop efficient and secure solutions by applying dedication, attention to detail, and actively collaborating in the projects I am part of.**
 - ⚡ Random fact about myself: **I like to play table tennis in my free time** 🏓
 - 💬 Ask me about **pentesting**!
