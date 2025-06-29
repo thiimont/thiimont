@@ -26,7 +26,7 @@ Hi, I'm **Thiago Monteiro**, a Cross-Platform Software Development student at Fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
 </p>
 <p>Gained basic knowledge of PHP (with Laravel), Python, C#, C++, JavaScript, and web technologies such as HTML and CSS during previous projects.</p>
-<p>Developed a CRUD system using the Laravel framework, following good coding and security practices.</p>
+<p>Developed a CRUD system using the Laravel framework, following good coding and security practices. You can check it <a href="https://github.com/thiimont/CrudLaravel">here.</a></p>
 
 ### 🛠️ Tools/Systems
 <p align="left">
