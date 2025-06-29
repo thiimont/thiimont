@@ -12,6 +12,22 @@ Hi, I'm **Thiago Monteiro**, a Cross-Platform Software Development student at Fa
 </p>
 <p>Currently focusing on learning and developing backend solutions with Java, while improving my SQL and PL/SQL skills. I also occasionally work on side projects as a hobby.</p>
 
+### 💼 Introductory experience
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="35" height="35"/>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
+</p>
+<p>Gained basic knowledge of PHP (with Laravel), Python, C#, C++, JavaScript, and web technologies such as HTML and CSS during previous projects.</p>
+<p>Developed a CRUD system using the Laravel framework, following good coding and security practices.</p>
+
 ### 🛠️ Tools/Systems
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux (I use Arch btw)" width="35" height="35"/>
@@ -31,22 +47,6 @@ Hi, I'm **Thiago Monteiro**, a Cross-Platform Software Development student at Fa
 - **Oracle APEX**: Modeling and working with Oracle Database (during my Database Modeling/Relational Database lessons)
 - **Azure**: Used it on my first Web Development project, to host a static website (also used Azure Storage Explorer to update the files)
 - **Docker**: Used to isolate the Postgres database from the rest of my system on my Laravel CRUD project
-
-### 💼 Introductory experience
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="35" height="35"/>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
-</p>
-<p>Gained basic knowledge of PHP (with Laravel), Python, C#, C++, JavaScript, and web technologies such as HTML and CSS during previous projects.</p>
-<p>Developed a CRUD system using the Laravel framework, following good coding and security practices.</p>
 
 ## 🧑‍💻 About me
 <p>🌎 My native language is <b>Brazilian Portuguese</b>. Fluent in reading and writing in <b>English</b>; conversational level at intermediate (in progress)</p>
