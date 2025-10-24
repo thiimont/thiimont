@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=38&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!" alt="Typing SVG" /></a>
 </div>
 
-<p>Meu nome é Thiago Monteiro, sou um desenvolvedor backend com foco em Java e estudante de Desenvolvimento de Software Multiplataforma na Fatec Praia Grande. Tenho experiência em backend, banco de dados relacionais e conhecimentos básicos em frontend.</p>
+<p>Meu nome é Thiago Monteiro, sou um desenvolvedor backend e estudante de Desenvolvimento de Software Multiplataforma na Fatec Praia Grande. Tenho experiência em backend, banco de dados relacionais e conhecimentos básicos em frontend.</p>
   
 <p>Possuo forte interesse em cibersegurança, especialmente em pentesting, aplicando o conhecimento adquirido no desenvolvimento de código seguro.</p>
 
@@ -13,7 +13,7 @@
 
 ### ⚙️ Backend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java (foco principal)" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot (framework)" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django (framework)" width="45" height="45"/>
