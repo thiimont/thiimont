@@ -51,7 +51,7 @@ As vezes eu faço alguns side projects também. :octocat:
 - ✨ Gosto muito de tecnologia, música e jogos
 - 🏓 Pratico tênis de mesa nas horas vagas
 - 🎯 Minha meta é me tornar um desenvolvedor referência na área
-- 💭 Achocolatado > café, mude minha opinião.
+- 💭 Achocolatado > café, mude minha opinião
 - 💬 Pergunte-me sobre **ethical hacking**!
 
 ### 📬 Contato
