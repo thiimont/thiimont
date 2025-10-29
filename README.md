@@ -6,9 +6,6 @@ Possuo forte interesse em cibersegurança, especialmente em pentesting, aplicand
 
 As vezes eu faço alguns side projects também. :octocat:
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thimont)
-
 ## Tecnologias e ferramentas
 
 ### ⚙️ Backend
@@ -49,8 +46,16 @@ As vezes eu faço alguns side projects também. :octocat:
 ### 🌎 Idiomas
 - Português - Nativo
 - Inglês - Leitura e escrita avançadas | Conversação intermediária *(em evolução)*
-  
-💬 Pergunte-me sobre **ethical hacking**!
+
+### 🧵 Hobbies, curiosidades, etc.
+- ✨ Gosto muito de tecnologia, música e jogos
+- 🏓 Pratico tênis de mesa nas horas vagas
+- 🎯 Minha meta é me tornar um desenvolvedor referência na área
+- 💭 Achocolatado é melhor que café, mude minha opinião.
+- 💬 Pergunte-me sobre **ethical hacking**!
+
+### 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thimont)
 
 <div align="center">
   <picture>
