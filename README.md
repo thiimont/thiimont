@@ -82,7 +82,7 @@ As vezes eu faço alguns side projects também. :octocat:
 
   Fiz a implementação da **IA (ChatGPT)** na aplicação com **Spring AI**, permitindo ao usuário gerar insights sobre sua vida financeira em apenas um clique.
 
-  Você pode ver todas as minhas contribuições [aqui!](https://github.com/thiimont/Soldi/commits/main/?author=thiimont)
+  Você pode ver todas as minhas contribuições [aqui!](https://github.com/thiimont/Soldi/commits/develop/?author=thiimont)
   
   **Backend:** Java (Spring Boot), PostgreSQL<br>
   **Frontend:** React, TypeScript, Vite
