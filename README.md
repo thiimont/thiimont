@@ -69,7 +69,7 @@ As vezes eu faço alguns side projects também. :octocat:
 ### Projetos em destaque
 
 <details>
-  <summary><b>📊 Soldi - gerenciador de finanças pessoais (finalizado)</b></summary>
+  <summary><b>📊 Soldi - gerenciador de finanças pessoais</b></summary>
   
   Aplicação desenvolvida em grupo (4 integrantes) para a disciplina de **Técnicas de Programação II** na **Fatec Praia Grande**.
   
@@ -91,9 +91,9 @@ As vezes eu faço alguns side projects também. :octocat:
 </details>
 
 <details>
-  <summary><b>🔗 EncurtaUrl - API REST para encurtamento de URLs (em desenvolvimento)</b></summary>
+  <summary><b>🔗 EncurtaUrl - API REST para encurtamento de URLs</b></summary>
   
-  Projeto desenvolvido enquanto iniciava meus estudos com Java e Spring Boot, seguindo boas práticas de API, arquitetura e validação.
+  Comecei o desenvolvimento do projeto enquanto iniciava meus estudos com Java e Spring Boot, seguindo boas práticas de API, arquitetura e validação.
   
   Até então, pude aprender e aplicar:
   - **redirecionamento simples e eficiente** com mapeamento do código curto para a URL original
