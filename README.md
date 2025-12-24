@@ -29,19 +29,6 @@ Fique a vontade para entrar em contato comigo:
 </details>
 
 <details>
-  <summary>🧩 <b>Nível introdutório</b></summary>
-  <br>
-
-  ![PHP](https://img.shields.io/badge/php-%23256b8b.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23256b8b.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%23256b8b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23256b8b.svg?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23256b8b.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-256b8b?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details>
   <summary>🎨 <b>Frontend básico</b></summary>
   <br>
 
