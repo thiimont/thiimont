@@ -71,12 +71,12 @@ Fique a vontade para entrar em contato comigo:
 
   Fiz a implementação da **IA (ChatGPT)** na aplicação com **Spring AI**, permitindo ao usuário gerar insights sobre sua vida financeira em apenas um clique.
 
-  Você pode ver todas as minhas contribuições [aqui!](https://github.com/thiimont/Soldi/commits/develop/?author=thiimont)
+  Você pode ver todas as minhas contribuições [aqui!](https://github.com/thiishy/Soldi/commits/develop/?author=thiishy)
   
   **Backend:** Java (Spring Boot), PostgreSQL<br>
   **Frontend:** React, TypeScript, Vite
 
-  [![Acessar repositório do Soldi](https://img.shields.io/badge/Soldi-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiimont/Soldi)
+  [![Acessar repositório do Soldi](https://img.shields.io/badge/Soldi-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiishy/Soldi)
 </details>
 
 <details>
@@ -93,7 +93,7 @@ Fique a vontade para entrar em contato comigo:
 
   **Backend:** Java (Spring Boot), PostgreSQL
   
-  [![Acessar repositório do EncurtaUrl](https://img.shields.io/badge/EncurtaUrl-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiimont/EncurtaUrl)
+  [![Acessar repositório do EncurtaUrl](https://img.shields.io/badge/EncurtaUrl-52a447.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiishy/EncurtaUrl)
 </details>
 
 ### Mais informações
@@ -103,7 +103,7 @@ Fique a vontade para entrar em contato comigo:
 - 🇺🇸 **Inglês** (leitura e escrita avançadas, conversação básica)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiimont/thiimont/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiimont/thiimont/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiimont/thiimont/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiishy/thiishy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiishy/thiishy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiishy/thiishy/output/github-contribution-grid-snake.svg">
 </picture>
