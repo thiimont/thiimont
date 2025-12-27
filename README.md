@@ -20,9 +20,7 @@ Fique a vontade para entrar em contato comigo:
   <br>
 
   ![Java](https://img.shields.io/badge/java-%23256b8b.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-256b8b?style=for-the-badge&logo=python&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-%23256b8b.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23256b8b.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23256b8b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-256b8b?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -35,6 +33,20 @@ Fique a vontade para entrar em contato comigo:
   ![HTML5](https://img.shields.io/badge/html5-%23256b8b.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%23256b8b.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23256b8b.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details>
+  <summary>🧩 <b>Nível introdutório</b></summary>
+  <br>
+  
+  ![Python](https://img.shields.io/badge/python-256b8b?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23256b8b.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-256b8b?style=for-the-badge&logo=PHP&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Python-256b8b?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23256b8b.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%23256b8b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23256b8b.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 </details>
 
